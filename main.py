@@ -1,5 +1,7 @@
-# pong2 by Grievous667 4/16/2023
-# This is a pygame game that I wrote to practice object-oriented programming. As with most everything I've ever done, this program is incomplete, and it's a disaster in several places, but it's currently in a playable state.
+# Space Paddle by Luke Becker, 4/16/2023
+# This is a pygame game that I wrote to practice object-oriented programming.
+# The code is pretty silly in some places, notably there are much easier ways to do the buttons and rules, but it functions...
+#
 #
 # The general layout of the code is as follows:
 #
